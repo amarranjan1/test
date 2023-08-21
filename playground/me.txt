@@ -1,0 +1,5 @@
+{{#user}}
+Name: Amar Ranjan
+Skills: HTML, CSS, JS, Next.js
+Email: amarranjan0@gmail.com
+{{/user}}
